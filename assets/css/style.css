@@ -1,0 +1,54 @@
+.bg_warna{
+  background-image: linear-gradient(#C70909, #F0BF0F);
+}
+
+.image_slide{
+	height:500px; 
+}
+
+.bg_btn_slider{
+	background-image: linear-gradient(#C70909, #F0BF0F);
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	margin-top: 20%;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+.bg_caption{
+	background-color: black;
+	opacity: 0.7;
+	border-radius: 20px;
+}
+
+.set_image{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	width: 350px;
+	height: 250px;
+}
+
+h5{
+	color: #d64b0b;
+	font-weight: bold;
+}
+
+.th_bg{
+	background-color: blue;
+}
+
+th{
+	color: black;
+}
+
+.footer{
+	height: 90px;
+	background-color: black;
+}
+
+.copyright{
+	padding-top: 25px;
+}
+
+
+
